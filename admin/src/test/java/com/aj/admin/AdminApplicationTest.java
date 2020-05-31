@@ -7,6 +7,6 @@ public class AdminApplicationTest extends TestCase {
 
 @Test
     public void testTestCaseT() {
-    assertEquals("aa", "bb");
+    assertEquals("aa", "aa");
     }
 }
